@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeeshan Ahmad
 - 👀 I’m interested in Web Developmnet
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on React
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 you can contact me on linkedin/zeeshaan-ahmad/
 
